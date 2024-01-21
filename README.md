@@ -6,3 +6,5 @@
 * main: 主分支，功能穩定且測試過後併入此分支 - 由 Henry 負責合併
 * develop: 開發分支，在此合併與整合多個功能分支 - 由 Henry 負責合併
 * feature/XXX: 功能分支 - 由 Alex, Jay, Henry 分別開發不同功能
+
+> 後端倉庫在 [這裡](https://github.com/j32u4ukh/articlecamp-back)。
